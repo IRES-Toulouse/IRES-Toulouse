@@ -2,12 +2,11 @@
 
 /*
 Plugin Name: IRES de Toulouse
-Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+Plugin URI: https://github.com/IRES-Toulouse/ires-toulouse
 Description: Adding new content related to the IRES de Toulouse
-Version: 2.0
-Author: Yohann MAY, Maxime MOSKALYK, Robin FOUGERON, Téo EMIROT
-Author URI: http://URI_Of_The_Plugin_Author
-License: A "Slug" license name e.g. GPL2
+Version: 2.1
+Author: Yohann MAY, Maxime MOSKALYK, Robin FOUGERON, Téo EMIROT, Franck Silvestre
+License: GNU AFFERO GENERAL PUBLIC LICENSE version 3
 */
 
 require_once("controllers/Controller.php");
