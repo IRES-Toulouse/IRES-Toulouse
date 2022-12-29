@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: IRES de Toulouse
-Plugin URI: https://github.com/IRES-Toulouse/ires-toulouse
+Plugin URI: https://github.com/IRES-Toulouse/ires-toulouse/releases/latest
 Description: Adding new content related to the IRES de Toulouse
 Version: 2.1
 Author: Yohann MAY, Maxime MOSKALYK, Robin FOUGERON, Téo EMIROT, Franck Silvestre
